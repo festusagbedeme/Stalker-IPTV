@@ -1,0 +1,806 @@
+```
+# Android build artifacts
+*.apk
+*.aar
+*.jar
+*.so
+
+# Android build directories
+build/
+.gradle/
+captures/
+
+# Android IDE files
+.local/
+.proguard/
+
+# Android temp files
+*.tmp
+*.temp
+
+# Android logs
+*.log
+
+# Android local configurations
+local.properties
+
+# Android keystore files
+*.keystore
+*.jks
+
+# Android emulator files
+*.avd/
+
+# Android studio
+.idea/
+*.iml
+*.iws
+
+# Android cache
+.cache/
+.caches/
+
+# Android dependency cache
+.libs/
+
+# Android output files
+output.json
+
+# Android packaging
+*.zip
+*.tar
+*.gz
+
+# Android native build
+obj/
+.libs/
+
+# Android testing
+test-results/
+coverage/
+
+# Android documentation
+doc-staging/
+
+# Android distribution
+dist/
+
+# Android temporary files
+*.tmp
+*~
+
+# Android environment
+.env
+.env.local
+.env.
+
+# Android compiled resources
+gen/
+bin/
+out/
+
+# Android packaging artifacts
+apks/
+aab/
+
+# Android native libraries
+lib/
+
+# Android build system
+.externalNativeBuild/
+.cxx/
+
+# Android lint
+lint-results-*.xml
+
+# Android profilers
+*.hprof
+
+# Android bundle
+*.aab
+
+# Android instant app
+*.apks
+
+# Android device protection
+device.xml
+
+# Android gradle wrapper (if not needed in version control)
+gradle/wrapper/gradle-wrapper.jar
+
+# Android signing
+signing-config-release.properties
+
+# Android testing reports
+report/
+reports/
+
+# Android coverage
+jacoco/
+
+# Android build cache
+.build-cache/
+
+# Android incremental compilation
+.ic/
+
+# Android annotation processing
+.apt/
+
+# Android data binding
+.databinding/
+
+# Android view binding
+.view-binding/
+
+# Android navigation
+.navigation/
+
+# Android view inspector
+.inspector/
+
+# Android profiler
+.profiler/
+
+# Android memory dumps
+*.hprof
+
+# Android network security config
+.debug/
+
+# Android release
+release/
+
+# Android debug
+debug/
+
+# Android test coverage
+coverage/
+
+# Android lint cache
+.lint/
+
+# Android aapt2
+.aapt2/
+
+# Android desugaring
+.desugaring/
+
+# Android prefab
+.prefab/
+
+# Android R8
+.r8/
+
+# Android resources
+R.txt
+public.txt
+
+# Android assets
+assets/
+
+# Android native dependencies
+jniLibs/
+
+# Android prebuilt
+prebuilt/
+
+# Android external native build
+.externalNativeBuild/
+
+# Android cmake
+.cmake/
+
+# Android ninja
+.ninja_log
+
+# Android kapt
+kapt/
+.kapt/
+
+# Android ksp
+ksp/
+.ksp/
+
+# Android room
+.room/
+
+# Android work manager
+.work/
+
+# Android paging
+.paging/
+
+# Android lifecycle
+.lifecycle/
+
+# Android saved states
+.savedState/
+
+# Android compose
+.compose/
+
+# Android view binding
+.databinding/
+
+# Android data binding
+.databinding/
+
+# Android navigation safe args
+.nav_args/
+
+# Android lint baseline
+lint-baseline.xml
+
+# Android proguard
+proguard/
+
+# Android crashlytics
+crashlytics-build.properties
+
+# Android firebase
+google-services.json
+
+# Android play
+play/
+
+# Android store
+store/
+
+# Android upload
+upload/
+
+# Android publish
+publish/
+
+# Android deploy
+deploy/
+
+# Android install
+install/
+
+# Android package
+package/
+
+# Android archive
+archive/
+
+# Android export
+export/
+
+# Android import
+import/
+
+# Android sync
+sync/
+
+# Android update
+update/
+
+# Android upgrade
+upgrade/
+
+# Android migration
+migration/
+
+# Android backup
+backup/
+
+# Android restore
+restore/
+
+# Android recovery
+recovery/
+
+# Android cache
+cache/
+
+# Android temp
+temp/
+
+# Android log
+log/
+
+# Android debug
+debug/
+
+# Android release
+release/
+
+# Android build
+build/
+
+# Android output
+output/
+
+# Android dist
+dist/
+
+# Android lib
+lib/
+
+# Android bin
+bin/
+
+# Android obj
+obj/
+
+# Android gen
+gen/
+
+# Android out
+out/
+
+# Android target
+target/
+
+# Android .gradle
+.gradle/
+
+# Android gradle
+gradle/
+
+# Android .idea
+.idea/
+
+# Android .vscode
+.vscode/
+
+# Android .settings
+.settings/
+
+# Android .project
+.project
+
+# Android .classpath
+.classpath
+
+# Android .metadata
+.metadata
+
+# Android .DS_Store
+.DS_Store
+
+# Android Thumbs.db
+Thumbs.db
+
+# Android .git
+.git/
+
+# Android .svn
+.svn/
+
+# Android .hg
+.hg/
+
+# Android .bzr
+.bzr/
+
+# Android CVS
+CVS/
+
+# Android .cvsignore
+.cvsignore
+
+# Android .gitignore
+.gitignore
+
+# Android .gitmodules
+.gitmodules
+
+# Android .gitattributes
+.gitattributes
+
+# Android .editorconfig
+.editorconfig
+
+# Android .travis.yml
+.travis.yml
+
+# Android appveyor.yml
+appveyor.yml
+
+# Android .circleci
+.circleci/
+
+# Android .github
+.github/
+
+# Android Jenkinsfile
+Jenkinsfile
+
+# Android Drone
+.drone.yml
+
+# Android semaphore
+.semaphore/
+
+# Android wercker
+.wercker/
+
+# Android codeship
+codeship/
+
+# Android buildkite
+.buildkite/
+
+# Android shippable
+shippable.yml
+
+# Android snap
+.snap/
+
+# Android docker
+.docker/
+
+# Android kubernetes
+.k8s/
+
+# Android helm
+.helm/
+
+# Android terraform
+.terraform/
+
+# Android ansible
+.ansible/
+
+# Android chef
+.chef/
+
+# Android puppet
+.puppet/
+
+# Android salt
+.salt/
+
+# Android vagrant
+.vagrant/
+
+# Android packer
+.packer/
+
+# Android molecule
+.molecule/
+
+# Android kitchen
+.kitchen/
+
+# Android test
+test/
+
+# Android spec
+spec/
+
+# Android features
+features/
+
+# Android stories
+stories/
+
+# Android acceptance
+acceptance/
+
+# Android integration
+integration/
+
+# Android unit
+unit/
+
+# Android functional
+functional/
+
+# Android performance
+performance/
+
+# Android load
+load/
+
+# Android stress
+stress/
+
+# Android soak
+soak/
+
+# Android endurance
+endurance/
+
+# Android monkey
+monkey/
+
+# Android fuzz
+fuzz/
+
+# Android security
+security/
+
+# Android penetration
+penetration/
+
+# Android vulnerability
+vulnerability/
+
+# Android compliance
+compliance/
+
+# Android audit
+audit/
+
+# Android review
+review/
+
+# Android analysis
+analysis/
+
+# Android metrics
+metrics/
+
+# Android stats
+stats/
+
+# Android monitoring
+monitoring/
+
+# Android logging
+logging/
+
+# Android tracing
+tracing/
+
+# Android profiling
+profiling/
+
+# Android debugging
+debugging/
+
+# Android instrumentation
+instrumentation/
+
+# Android coverage
+coverage/
+
+# Android report
+report/
+
+# Android reports
+reports/
+
+# Android output
+output/
+
+# Android results
+results/
+
+# Android artifacts
+artifacts/
+
+# Android cache
+cache/
+
+# Android caches
+caches/
+
+# Android temp
+temp/
+
+# Android tmp
+tmp/
+
+# Android backup
+backup/
+
+# Android backups
+backups/
+
+# Android snapshot
+snapshot/
+
+# Android snapshots
+snapshots/
+
+# Android dump
+dump/
+
+# Android dumps
+dumps/
+
+# Android export
+export/
+
+# Android exports
+exports/
+
+# Android import
+import/
+
+# Android imports
+imports/
+
+# Android sync
+sync/
+
+# Android synchronize
+synchronize/
+
+# Android update
+update/
+
+# Android upgrade
+upgrade/
+
+# Android migration
+migration/
+
+# Android restore
+restore/
+
+# Android recovery
+recovery/
+
+# Android archive
+archive/
+
+# Android archives
+archives/
+
+# Android package
+package/
+
+# Android packages
+packages/
+
+# Android distribution
+distribution/
+
+# Android distributions
+distributions/
+
+# Android release
+release/
+
+# Android releases
+releases/
+
+# Android build
+build/
+
+# Android builds
+builds/
+
+# Android compile
+compile/
+
+# Android compilation
+compilation/
+
+# Android compile-cache
+compile-cache/
+
+# Android compilation-cache
+compilation-cache/
+
+# Android obj
+obj/
+
+# Android objects
+objects/
+
+# Android lib
+lib/
+
+# Android libs
+libs/
+
+# Android library
+library/
+
+# Android libraries
+libraries/
+
+# Android framework
+framework/
+
+# Android frameworks
+frameworks/
+
+# Android platform
+platform/
+
+# Android platforms
+platforms/
+
+# Android target
+target/
+
+# Android targets
+targets/
+
+# Android sdk
+sdk/
+
+# Android sdks
+sdks/
+
+# Android ndk
+ndk/
+
+# Android ndks
+ndks/
+
+# Android jdk
+jdk/
+
+# Android jdks
+jdks/
+
+# Android jre
+jre/
+
+# Android jres
+jres/
+
+# Android java
+java/
+
+# Android javas
+javas/
+
+# Android gradle
+gradle/
+
+# Android gradles
+gradles/
+
+# Android maven
+maven/
+
+# Android mavens
+mavens/
+
+# Android ant
+ant/
+
+# Android ants
+ants/
+
+# Android ivy
+ivy/
+
+# Android ivys
+ivys/
+
+# Android sbt
+sbt/
+
+# Android sbts
+sbts/
+
+# Android leiningen
+leiningen/
+
+# Android leiningens
+leiningens/
+
+# Android bower
+bower/
+
+# Android bowers
+bowers/
+
+# Android npm
+npm/
+
+# Android npms
+npms/
+
+# Android yarn
+yarn/
+
+# Android yarns
+yarns/
+
+# Android pnpm
+pnpm/
+
+# Android pn
+```
